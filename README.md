@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Tennille Clayton 👋
 
-<!--
-**tennilleclayton/tennilleclayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 UX Designer & Digital Strategist  
+💻 Frontend Developer | HTML • CSS • JavaScript
+🎨 Visual Designer | Figma • Adobe Creative Suite | Web Accessibility Advocate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Frontend Development**: HTML5, CSS, JavaScript, GitHub, VS Code
+- **Design & Prototyping**: Figma, Sketch, Mural, Adobe Illustrator, Photoshop, InDesign
+- **Data Visualization**: Power BI, Tableau
+- **UX Strategy & Research**: UX Framework Development, User-Centered Design, Accessibility (Section 508, WCAG)
+- **Project Management**: Trello, Jira, Confluence, Agile Methodologies
+
+---
+
+## 🌟 Current Focus
+- Frontend Development
+- UX Strategy for Service-Based Businesses
+- Accessibility-First Web Design (Section 508 / WCAG Compliance)
+- Building Scalable UX Frameworks for Growth
+
+---
+
+## 📈 GitHub Stats
+![Tennille's GitHub stats](https://github-readme-stats.vercel.app/api?username=tennilleclayton&show_icons=true&theme=default)
+
+---
+
+## 🔗 Let's Connect
+- 🌐 [Website](https://www.itstennille.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tennilleclayton)
+
+---
+
+> _"Good design is good business."_ – Thomas J. Watson Jr.
